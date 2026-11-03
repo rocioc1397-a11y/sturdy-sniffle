@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(180, 170, 246);
+}
+h1{
+    color: rgb(205, 84, 84);
+    text-decoration: underline;
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+}

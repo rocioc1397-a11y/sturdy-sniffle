@@ -1,0 +1,10 @@
+.mensaje{
+    background-color: aquamarine;
+    padding: 10px;
+    font-size: 16px;
+    margin: 10px 10px;
+}
+
+body{
+    margin: auto auto;
+}
